@@ -51,9 +51,3 @@ Abra o arquivo index.html em seu navegador padrão.
 Thallya Bianka – Desenvolvedora e criadora do projeto.
 
 📧 Contato: thallyabianka@gmail.com
-
-✍️ Autor
-
-Thallya Bianka – Desenvolvedora e autora do projeto
-
-📧 Contato: thallyabianka@gmail.com
